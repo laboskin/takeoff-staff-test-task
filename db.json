@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@example.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "email": "user2@example.com",
+      "password": "12345678"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "+7 (123) 456-78-90",
+      "user": 1
+    },
+    {
+      "id": 2,
+      "user": 1,
+      "name": "Jane Doe",
+      "phone": "+7 (123) 456-78-91"
+    },
+    {
+      "id": 3,
+      "user": 1,
+      "name": "Albert Doe",
+      "phone": "+7 (123) 456-78-92"
+    },
+    {
+      "id": 4,
+      "user": 1,
+      "name": "Joseph Doe",
+      "phone": "+7 (123) 456-78-93"
+    },
+    {
+      "id": 5,
+      "user": 1,
+      "name": "Will Doe",
+      "phone": "+7 (123) 456-78-94"
+    },
+    {
+      "id": 6,
+      "user": 1,
+      "name": "Cidney Doe",
+      "phone": "+7 (123) 456-78-95"
+    },
+    {
+      "id": 7,
+      "user": 2,
+      "name": "Alex Smith",
+      "phone": "+7 (123) 456-78-96"
+    },
+    {
+      "id": 8,
+      "user": 2,
+      "name": "Brian Smith",
+      "phone": "+7 (123) 456-78-97"
+    },
+    {
+      "id": 9,
+      "user": 2,
+      "name": "Thomas Smith",
+      "phone": "+7 (123) 456-78-98"
+    },
+    {
+      "id": 10,
+      "user": 2,
+      "name": "Will Smith",
+      "phone": "+7 (123) 456-78-99"
+    },
+    {
+      "id": 11,
+      "user": 2,
+      "name": "Maxwell Smith",
+      "phone": "+7 (123) 456-78-90"
+    },
+    {
+      "id": 12,
+      "user": 2,
+      "name": "Ivan Smith",
+      "phone": "+7 (123) 456-78-81"
+    }
+  ]
+}

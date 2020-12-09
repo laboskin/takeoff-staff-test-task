@@ -1,0 +1,14 @@
+header .nav-wrapper{
+    display: flex;
+    align-items: center;
+}
+header .input-field {
+    flex-grow: 1;
+}
+header input:not(:focus) {
+    color: #fff;
+}
+header .logout-search-active{
+    background-color: #fff;
+    color: #000;
+}
